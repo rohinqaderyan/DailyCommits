@@ -58,7 +58,7 @@ If you need to make the repository private again:
 3. Select **"Make private"**
 4. Confirm the change
 
-Note: Making a repository private requires a GitHub paid plan if you've exceeded the free private repository limit.
+Note: GitHub now provides unlimited private repositories for free. Paid plans are only required for advanced features like team collaboration on private repositories.
 
 ## About This Repository
 
